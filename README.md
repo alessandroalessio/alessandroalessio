@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @alessandroalessio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in **coding**, **F1**, **soccer** and **Hip Hop**
+- 📫 If would contact use write me at (mailto:info@a2area.it)[info@a2area.it]
 
-Follow me at (https://www.a2area.it)[a2area.it]
-
-<!---
-alessandroalessio/alessandroalessio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+See all my work at (https://www.a2area.it)[a2area.it]
+If you are intereste in my life you can check my blog at (https://www.alessandroalessio.net)[alessandroalessio.net]
