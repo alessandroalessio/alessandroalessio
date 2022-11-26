@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **a.alessio.web@gmail.com**
 
+<h3>My Tech Stuff</h3>
+- Dell XPS 7590 / 16GB / 512GB with Ubuntu
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aalessio86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aalessio86" height="30" width="40" /></a>
