@@ -12,7 +12,7 @@
 - 📫 How to reach me **a.alessio.web@gmail.com**
 
 <h3>My Tech Stuff</h3>
-- Dell XPS 7590 / 16GB / 512GB with Ubuntu
+- Macbook Pro 14" M1 / 16GB / 512GB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
